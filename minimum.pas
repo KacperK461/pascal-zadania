@@ -9,5 +9,5 @@ begin
   else if (b <= a) and (b <= c) then
     Writeln(b)
   else if (c <= a) and (c <= b) then
-    Writeln(c);
+    Writeln(c)
 end.
